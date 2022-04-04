@@ -1,3 +1,5 @@
+[![.github/workflows/git-sync.yml](https://github.com/sig-alanyan/platform-samples/actions/workflows/git-sync.yml/badge.svg?branch=master)](https://github.com/sig-alanyan/platform-samples/actions/workflows/git-sync.yml)
+
 platform-samples
 ================
 
